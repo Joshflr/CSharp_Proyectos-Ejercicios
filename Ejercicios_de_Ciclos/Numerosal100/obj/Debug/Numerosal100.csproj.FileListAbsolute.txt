@@ -1,0 +1,8 @@
+E:\JOSUE\Documentos\EJFM\TRASH CODE\C#\Numerosal100\bin\Debug\Numerosal100.exe.config
+E:\JOSUE\Documentos\EJFM\TRASH CODE\C#\Numerosal100\bin\Debug\Numerosal100.exe
+E:\JOSUE\Documentos\EJFM\TRASH CODE\C#\Numerosal100\bin\Debug\Numerosal100.pdb
+E:\JOSUE\Documentos\EJFM\TRASH CODE\C#\Numerosal100\obj\Debug\Numerosal100.csproj.AssemblyReference.cache
+E:\JOSUE\Documentos\EJFM\TRASH CODE\C#\Numerosal100\obj\Debug\Numerosal100.csproj.SuggestedBindingRedirects.cache
+E:\JOSUE\Documentos\EJFM\TRASH CODE\C#\Numerosal100\obj\Debug\Numerosal100.csproj.CoreCompileInputs.cache
+E:\JOSUE\Documentos\EJFM\TRASH CODE\C#\Numerosal100\obj\Debug\Numerosal100.exe
+E:\JOSUE\Documentos\EJFM\TRASH CODE\C#\Numerosal100\obj\Debug\Numerosal100.pdb
